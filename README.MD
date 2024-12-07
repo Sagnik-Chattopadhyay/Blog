@@ -13,8 +13,4 @@ This is a fully functional blog website built using the Django framework. The pr
 - **Frontend:** HTML, CSS
 - **Database:** SQLite
 
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+
